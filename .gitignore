@@ -1,2 +1,12 @@
 *.pyc
 __pycache__
+*.pth
+
+# macos
+.DS_Store
+
+# pytorch
+*.pt
+*.pth
+*.pth.tar
+*.pth.tar.gz
